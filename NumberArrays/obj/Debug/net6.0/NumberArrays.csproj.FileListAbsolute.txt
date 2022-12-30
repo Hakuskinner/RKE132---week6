@@ -1,0 +1,5 @@
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.csproj.CoreCompileInputs.cache

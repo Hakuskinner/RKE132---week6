@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net6.0\Week6StringAndArrays.exe
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net6.0\Week6StringAndArrays.deps.json
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net6.0\Week6StringAndArrays.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net6.0\Week6StringAndArrays.dll
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net6.0\Week6StringAndArrays.pdb
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.dll
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\refint\Week6StringAndArrays.dll
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.pdb
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\Week6StringAndArrays.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net6.0\ref\Week6StringAndArrays.dll
